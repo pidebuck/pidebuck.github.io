@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pidebuck.github.io/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/app/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/assets/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/css/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/data/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/includes/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/item/sitemap.html.gz
+Sitemap: https://pidebuck.github.io/src/sitemap.html.gz
